@@ -1,0 +1,35 @@
+01) Types of css
+02) Types of selector
+03) Background
+04) Border
+05) Margin
+06) Padding
+07) Height & Width
+08) Box model
+09) Outline
+10) Text
+11) Font
+12) Icon
+13) Link
+14) List
+15) Table
+16) Display
+17) Max-width
+18) Position
+19) Z-index
+20) Overflow
+21) Float
+22) Inline & Block
+23) Align
+24) Combinator
+25) Pseudo class
+26) Pseudo element
+27) Opacity
+28) Color gradient
+29) Shadow
+30) Transform
+31) Transition
+32) Animation
+33) Flex Box
+34) Grid
+35) Media queries
